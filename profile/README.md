@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=200&section=header&text=%C3%86thronOps&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Production-ready%20Azure%20Terraform%20with%20compliance%20proof&descSize=16&descAlignY=75)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stacks-68-4F6EF7?style=for-the-badge" alt="68 stacks" />
-  <img src="https://img.shields.io/badge/Compliance%20Frameworks-9-00D4A1?style=for-the-badge" alt="9 frameworks" />
-  <img src="https://img.shields.io/badge/Azure%20Verified%20Modules-100%25-0078D4?style=for-the-badge" alt="100% AVM" />
-  <img src="https://img.shields.io/badge/Pricing-Free--249%20EUR-FF6B6B?style=for-the-badge" alt="Free-249 EUR" />
+  <img src="https://img.shields.io/badge/68%20stacks-4F6EF7?style=flat-square" alt="68 stacks" />
+  <img src="https://img.shields.io/badge/9%20compliance%20frameworks-00D4A1?style=flat-square" alt="9 frameworks" />
+  <img src="https://img.shields.io/badge/100%25%20Azure%20Verified%20Modules-0078D4?style=flat-square" alt="100% AVM" />
+  <img src="https://img.shields.io/badge/Free--249%20EUR-6c757d?style=flat-square" alt="Free-249 EUR" />
 </p>
 
 ---

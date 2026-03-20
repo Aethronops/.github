@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=200&section=header&text=%C3%86thronOps&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Production-ready%20Azure%20Terraform%20with%20compliance%20proof&descSize=16&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=280&section=header&text=%C3%86thronOps&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Production-ready%20Azure%20Terraform%20with%20compliance%20proof&descSize=20&descAlignY=72)
 
 <p align="center">
   <img src="https://img.shields.io/badge/68%20stacks-4F6EF7?style=flat-square" alt="68 stacks" />

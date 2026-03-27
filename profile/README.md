@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/78%20stacks-4F6EF7?style=flat-square" alt="78 stacks" />
-  <img src="https://img.shields.io/badge/7%20frameworks-00D4A1?style=flat-square" alt="7 frameworks" />
+  <img src="https://img.shields.io/badge/9%20frameworks-00D4A1?style=flat-square" alt="9 frameworks" />
   <img src="https://img.shields.io/badge/100%25%20Azure%20Verified%20Modules-0078D4?style=flat-square" alt="100% AVM" />
   <img src="https://img.shields.io/badge/83%2F83%20plan%20%2B%20checkov%20pass-28a745?style=flat-square" alt="83/83 validated" />
   <img src="https://img.shields.io/badge/43%2B%20real%20Azure%20deploys-ff6600?style=flat-square" alt="43+ deploys" />
@@ -45,7 +45,7 @@ AethronOps generates all of that wiring -- end-to-end -- then validates it:
 Every resource wired: networking, identity, monitoring, secrets, security
 Private Endpoints, Managed Identity, TLS 1.2+, Key Vault
 Log Analytics + App Insights + diagnostic settings on every resource
-SECURITY-POSTURE.md: controls mapped to 7 frameworks
+SECURITY-POSTURE.md: controls mapped to 9 frameworks
 finops.tf: budget alerts, auto-shutdown, lifecycle policies
 .checkov.yaml: documented justification for every skip
 README.md: architecture overview + 3-step deployment guide

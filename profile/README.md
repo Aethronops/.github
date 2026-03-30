@@ -55,9 +55,9 @@ Every stack includes a `SECURITY-POSTURE.md` mapping controls to: **CAF · WAF �
 |------|------:|-------------|
 | **Free** | 0€ | 5 stacks (all 3 tiers) |
 | **Starter** | 79€ HT | 1 stack (all 3 tiers) |
-| **Builder** | 149€ HT | 5 stacks (all 3 tiers) |
-| **Architect** | 249€ HT | All 78 stacks (all 3 tiers) |
-| **Custom** | On quote | Tailored stack for your specific needs |
+| **Builder** | 149€ HT | 1 stack (all 3 tiers) |
+| **Architect** | 249€ HT | 1 stack (all 3 tiers) |
+| **Custom** | From 499€ HT | Tailored stack for your specific needs |
 
 ---
 

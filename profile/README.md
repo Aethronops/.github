@@ -64,7 +64,3 @@ One-time payment. No subscription. Source code delivered as ZIPs.
 <p align="center">
   <a href="https://aethronops.com/stacks/"><strong>Browse the catalog →</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://aethronops.com">aethronops.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://aethronops.com/contact/">Contact</a>
 </p>
-
-<p align="center">
-  <sub>AethronOps is a brand of <strong>PROJECTYL SASU</strong>, registered in Paris, France.</sub>
-</p>
